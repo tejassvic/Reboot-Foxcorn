@@ -1,5 +1,1 @@
-Changelog: Version 1.2.6.2 First Implementation of ComboTools.
-Can now Load a file.
-Split the File based on Lines.
-Change the Splitter for the list.
-Remove Duplicates from the List.
+Changelog: Version 1.2.6.3 Updated to latest source from Ruri (Added TCP Wait for Hello)
