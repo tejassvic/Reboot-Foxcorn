@@ -1,1 +1,4 @@
-Changelog: Version 1.2.6.3 Updated to latest source from Ruri (Added TCP Wait for Hello)
+Changelog: Version 1.2.6.4 Updated to latest source from Ruri 
+(Fixed proxies in Firefox (thanks ewwink.)
+(Added option for parsing JSON via JTokens (thanks ewwink).)
+(Added Remove Duplicates to the List Group in Utility block.)
